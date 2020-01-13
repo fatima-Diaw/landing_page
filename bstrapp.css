@@ -1,0 +1,126 @@
+.navb{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.bg-im {
+	background-image: url('https://blackrockdigital.github.io/startbootstrap-landing-page/img/bg-masthead.jpg');
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    color: white;
+    /*padding-top: 112px;
+    padding-bottom: 112px;*/
+}
+.flou{
+	position: absolute;
+	background-color: #212529;
+	height: 100%;
+	width:100%;
+	opacity: .3;
+}
+.entete{
+text-align: center;
+margin-top: 200px;
+font-size: 45px;
+margin-bottom: 30px;
+font-weight: 10px;
+
+}
+.entete2{
+	padding-bottom: 150px;
+}
+.section1{
+	background-color: #f8f9fa;
+	padding-top: 112px;
+	padding-bottom: 112px;
+	text-align: center;
+	
+	padding-left: 70px;
+	padding-right: 20px;
+}
+.larg{
+	max-width: 300px;
+	font-size: 20px;
+}
+.taille{
+	font-size: 72px;
+	color: #007bff;
+}
+.bgim1{
+	min-height: 480px;
+	background-size: cover;
+	width:100%;
+}
+.texte{
+	padding:100px;
+	font-size: 22px;
+	text-align: justify;
+}
+.section2{
+	padding-top: 100px;
+	background-color: #f8f9fa;
+	text-align: center; 
+	padding-left: 50px;
+	padding-right: 30px;
+}
+.img{
+	padding: 60px
+}
+.im{
+	max-width: 192px;
+	box-shadow: 0 5px 5px #adb5bd;
+}
+.section3{
+	background-image: url('https://blackrockdigital.github.io/startbootstrap-landing-page/img/bg-masthead.jpg');
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    
+    text-align: center;
+    color: white;
+}
+.bord{
+	padding-bottom:100px;
+    padding-top: 100px;
+}
+.sect{
+	margin-bottom: 20px;
+}
+.footer1{
+	padding-top: 64px;
+	padding-bottom: 54px;
+	background-color: #f8f9fa;
+	padding-left: 100px;
+	padding-right: 150px;
+}
+.alignement{
+	display: inline-block;
+	text-align: center;
+	float: left;
+	margin-left: 15px;
+}
+.p1{
+	font-size: 13px;
+	text-align: center;
+	padding-left:55px;
+	float: left;
+}
+.alignement1{
+	display: inline-block;
+	margin-left: 30px;
+	float: right;
+
+	text-align: center;
+}
+
+.taill{
+	text-align: center;
+	width: 24px;
+	font-size: 38px;
+}
